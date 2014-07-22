@@ -48,6 +48,7 @@
     "passport-local": "^1.0.0",
     "passport-oauth": "^1.0.0",
     "passport-twitter": "^1.0.2",
+    "passport-amazon": "^0.1.0",
     "request": "^2.37.0",
     "stripe": "^2.7.3",
     "tumblr.js": "^0.0.4",
